@@ -1,4 +1,4 @@
-a# Markdown-loader-example
+# Markdown-loader-example
 
 ## Installation
   * `npm install` or `yarn`

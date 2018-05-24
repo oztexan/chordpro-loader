@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/oztexanJAM/chordpro-loader"
+        "url": "https://github.com/oztexan/chordpro-loader"
     },
     "keywords": [
         "chordpro",
@@ -25,14 +25,14 @@
     "author": "Chris Robertson <oztexan@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/oztexanJAM/chordpro-loader/issues"
+        "url": "https://github.com/oztexan/chordpro-loader/issues"
     },
-    "homepage": "https://github.com/oztexanJAM/chordpro-loader",
+    "homepage": "https://github.com/oztexan/chordpro-loader",
     "peerDependencies": {
-        "chordprojs": "github:oztexanJAM/chordprojs"
+        "chordprojs": "github:oztexan/chordprojs"
     },
     "dependencies": {
-        "chordprojs": "github:oztexanJAM/chordprojs"
+        "chordprojs": "github:oztexan/chordprojs"
     },
     "devDependencies": {
         "ava": "^0.18.0",

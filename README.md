@@ -12,8 +12,8 @@ chordpro-loader for webpack using a fork of [chordprojs](https://github.com/gily
 This loader uses a fork of [chordprojs](https://github.com/gilyes/chordprojs) to transform [chordpro](https://www.chordpro.org) files into the JSON format:
 ```json
 {
-  "html": "..unstyled html..", // chordjs default html transform
-  "parseResult": {} // chordprojs parser output
+  "html": "..unstyled html..",
+  "parseResult": {}
 }
 ```
 Here is a default style to use with the generated html [chordprojs.css](https://github.com/oztexanJAM/chordprojs/blob/master/lib/chordpro.css)
