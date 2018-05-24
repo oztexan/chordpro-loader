@@ -1,0 +1,45 @@
+{
+    "name": "chordpro-loader",
+    "version": "0.0.1",
+    "description": "chordpro-loader for webpack",
+    "main": "index.js",
+    "scripts": {
+        "test": "ava test/*.test.js",
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix",
+        "report": "npm run coverage && nyc report --reporter=html",
+        "precommit": "npm run lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oztexanJAM/chordpro-loader"
+    },
+    "keywords": [
+        "chordpro",
+        "webpack",
+        "loader",
+        "plugin",
+        "JSON",
+        "html"
+    ],
+    "author": "Chris Robertson <oztexan@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oztexanJAM/chordpro-loader/issues"
+    },
+    "homepage": "https://github.com/oztexanJAM/chordpro-loader",
+    "peerDependencies": {
+        "chordprojs": "github:oztexanJAM/chordprojs"
+    },
+    "dependencies": {
+        "chordprojs": "github:oztexanJAM/chordprojs"
+    },
+    "devDependencies": {
+        "ava": "^0.18.0",
+        "eslint": "^4.7.1",
+        "eslint-config-airbnb-base": "^12.0.0",
+        "eslint-plugin-import": "^2.7.0",
+        "husky": "^0.14.3",
+        "webpack": "^2.2.1"
+    }
+}

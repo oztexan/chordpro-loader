@@ -1,0 +1,7 @@
+.idea
+node_modules
+.DS_Store
+.jshint*
+yarn-error.log
+test/output
+example/dist
