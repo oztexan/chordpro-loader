@@ -2,7 +2,17 @@
 {ipodid:2080676742384775562}
 {a: Chris Robertson}
 
+{start_of_grid 1+4x2+4}
+A    || G7 . | % . | %% . | . . |
+     | C7 . | %  . || G7 . | % . ||
+     |: C7 . | %  . :|: G7 . | % . :| repeat 4 times
+Coda | D7 . | Eb7 | D7 | G7 . | % . |.
+{end_of_grid}
+
 {c:Verse 1}
+{start_of_grid}
+|| Eb . . . | Gb . Ab . ||
+{end_of_grid}
 [Eb]Out in the county
 911's on the moon
 My [Gb]gun keeps the peace
@@ -50,3 +60,6 @@ And [Ab]get me some venison
 
 {c: Outro}
 Deer.......... Stand..........
+
+{new_song}
+{ns}
